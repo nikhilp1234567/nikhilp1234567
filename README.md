@@ -84,43 +84,6 @@ That usually means problems like:
 
 Those are the problems I like solving.
 
----
-
-## Selected Projects
-
-### 🔧 Project Name
-**Problem:** Brief description of the business problem.
-
-**Built:** What you created and the technologies involved.
-
-**Result:** What became faster, easier, or automated.
-
-[View repository →](#)
-
----
-
-### 🤖 Project Name
-**Problem:** Brief description.
-
-**Built:** Brief description.
-
-**Result:** Brief description.
-
-[View repository →](#)
-
----
-
-### 📊 Project Name
-**Problem:** Brief description.
-
-**Built:** Brief description.
-
-**Result:** Brief description.
-
-[View repository →](#)
-
----
-
 ## Currently
 
 I'm using freelance and consulting projects to go deep on real-world B2B workflows — particularly operations, sales, finance, and internal business systems.
